@@ -27,15 +27,14 @@ i.	Power BI for data visualization and dashboard design
 ii.	Power Query for data cleaning and transformation  
 iii.	DAX (Data Analysis Expressions) for calculated measures  
 
-- **Methodology:**
-- 
+- **Methodology:**  
 To prepare the data for analysis, a series of transformation and modeling steps were carried out:  
-•	Performed data cleaning in Power Query (handling missing values, correcting data types, and removing inconsistencies)  
-•	Created a centralized Fact Table by combining transactional data from Orders and Order Details  
-•	Built supporting Dimension Tables (Customers, Products, Employees, Shippers, Categories)  
-•	Established relationships between fact and dimension tables using a star schema model  
-•	Developed a Calendar Table to enable time-based analysis (YoY, monthly trends, seasonality)  
-•	Created calculated columns, including:  
+i. Performed data cleaning in Power Query (handling missing values, correcting data types, and removing inconsistencies)  
+ii. Created a centralized Fact Table by combining transactional data from Orders and Order Details  
+iii. Built supporting Dimension Tables (Customers, Products, Employees, Shippers, Categories)  
+iv. Established relationships between fact and dimension tables using a star schema model  
+v. Developed a Calendar Table to enable time-based analysis (YoY, monthly trends, seasonality)  
+vi. Created calculated columns, including:  
       - Shipping Days  
       - Delivery Delay  
       - Shipping Days Bucket  
