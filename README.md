@@ -100,3 +100,14 @@ vii. Designed DAX measures for key metrics such as:
 **Workforce Optimization:**   
 - Balance workload across employees  
 - Identify best practices from top performers  
+
+## Link to Report  
+Power BI
+[r=eyJrIjoiZDU5NDg2NTctMGEyNS00ZGRlLTkzNmQtOGU2MjIwYTUxMjZhIiwidCI6IjU2YjNjMjUzLTdlM2MtNDFjNC04NjEwLTc4YjIyYWNjN2E2MCJ9&pageName=22e1f0c1a858a0a300c8](https://www.powerbi.com)
+
+https://app.powerbi.com/view?
+## Conclusion
+
+This analysis provides Northwind Traders with a data-driven understanding of business performance across sales, products, customers, and operations. By leveraging insights from revenue trends, customer concentration, product performance, discount effectiveness, and operational efficiency, the business can make more informed strategic decisions.
+
+Implementing targeted improvements based on these findings will help Northwind Traders reduce operational inefficiencies, optimize pricing strategies, diversify customer and regional exposure, and ultimately drive more sustainable and profitable growth.
