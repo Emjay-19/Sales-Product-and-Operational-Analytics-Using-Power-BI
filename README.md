@@ -38,7 +38,7 @@ vi. Created calculated columns, including:
       - Shipping Days  
       - Delivery Delay  
       - Shipping Days Bucket  
-•	Designed DAX measures for key metrics such as:  
+vii. Designed DAX measures for key metrics such as:  
       - Total Revenue  
       - Total Orders  
       - Average Order Value  
@@ -47,7 +47,7 @@ vi. Created calculated columns, including:
       - Freight Cost  
       - Year-over-Year Growth  
 
-## Dashboard
+## Dashboards
 
 <img width="509" height="283" alt="Screenshot 2026-04-29 203101" src="https://github.com/user-attachments/assets/6cfa777a-8228-403e-b8c2-a44510e1048e" />
 
@@ -56,7 +56,6 @@ vi. Created calculated columns, including:
 <img width="505" height="281" alt="Screenshot 2026-04-29 203234" src="https://github.com/user-attachments/assets/862c84f2-5382-4366-8c09-50d5eb31497e" />
 
 ## Key Insights  
-## 📊 Key Insights
 
 - **Revenue vs Order Volume:** Revenue increased significantly (+179.3% YoY) despite a decline in total orders (-33.8%). This indicates growth is driven by higher-value transactions rather than increased customer activity, creating dependency on fewer large orders.  
 
@@ -82,11 +81,11 @@ vi. Created calculated columns, including:
 
 ## Recommendation  
 **Sales & Growth:**  
-* Focus on high-value customers to sustain revenue growth
-+ Expand into underperforming regions  
+- Focus on high-value customers to sustain revenue growth
+- Expand into underperforming regions  
 **Product Strategy:**
-Reassess discontinued products with strong demand  
-Optimize product mix toward high-performing categories  
+- Reassess discontinued products with strong demand  
+- Optimize product mix toward high-performing categories  
 **Pricing & Discounts:**  
 Reduce excessive discounting  
 Implement data-driven discount strategies  
