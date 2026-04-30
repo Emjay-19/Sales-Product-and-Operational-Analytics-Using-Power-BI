@@ -2,14 +2,16 @@
 
 ## Project Overview
 This project presents an interactive Business Intelligence dashboard built using the Northwind Traders dataset. It delivers a comprehensive view of sales performance, product insights, and operational efficiency.
-The solution is divided into three key analytical areas:
-i.	Overview Dashboard – tracks revenue trends, customer contribution, and order behavior
-ii.	Product Dashboard – analyzes product performance, discount impact, and category contribution
-iii.	Operational Dashboard – evaluates shipping efficiency, freight costs, and employee productivity
+The solution is divided into three key analytical areas:  
+i.	Overview Dashboard – tracks revenue trends, customer contribution, and order behavior  
+ii.	Product Dashboard – analyzes product performance, discount impact, and category contribution  
+iii.	Operational Dashboard – evaluates shipping efficiency, freight costs, and employee productivity  
 The goal is to enable data-driven decision-making by uncovering trends, inefficiencies, and growth opportunities.
 
 ## Problem Statement
 Northwind Traders need clear visibility into their performance across sales, products, and operations, but raw transactional data alone does not provide actionable insights. This project aims to address critical business questions by transforming data into an interactive dashboard that supports decision-making.
+
+## Business Questions Answered
 The analysis is focused on answering the following key questions:
 •	Sales Performance: How is revenue evolving over time, and what patterns exist in order volume? Are there noticeable seasonal trends affecting sales?
 •	Product Intelligence: Which product categories and individual products generate the highest revenue? How does the discontinuation of products impact overall sales performance and potential revenue opportunities?
@@ -18,7 +20,7 @@ The analysis is focused on answering the following key questions:
 •	Workforce & Shipper Performance: Which employees handle the most orders and generate the highest revenue? Which shipping companies provide the best balance between cost and performance?
 By addressing these questions, the dashboard provides a comprehensive view of business performance, helping stakeholders identify growth opportunities, optimize operations, and improve strategic decision-making.
 
-4.	Tools and Methodology
+## Tools and Methodology
    Tools Used
 i.	Power BI for data visualization and dashboard design
 ii.	Power Query for data cleaning and transformation
