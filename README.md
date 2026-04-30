@@ -106,6 +106,10 @@ Power BI
 [r=eyJrIjoiZDU5NDg2NTctMGEyNS00ZGRlLTkzNmQtOGU2MjIwYTUxMjZhIiwidCI6IjU2YjNjMjUzLTdlM2MtNDFjNC04NjEwLTc4YjIyYWNjN2E2MCJ9&pageName=22e1f0c1a858a0a300c8](https://www.powerbi.com)
 
 https://app.powerbi.com/view?
+
+[Link Text](https://www.example.com)
+
+
 ## Conclusion
 
 This analysis provides Northwind Traders with a data-driven understanding of business performance across sales, products, customers, and operations. By leveraging insights from revenue trends, customer concentration, product performance, discount effectiveness, and operational efficiency, the business can make more informed strategic decisions.
