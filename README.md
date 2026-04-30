@@ -78,3 +78,21 @@ To prepare the data for analysis, a series of transformation and modeling steps 
 - **Shipper Performance:** United Package generates the highest revenue ($534K) but also incurs the highest freight cost ($92K), showing a trade-off between revenue contribution and cost efficiency.  
 
 - **Employee Performance:** Employee output varies significantly, with the top performer generating $233K in revenue, highlighting imbalance in workload distribution and productivity across staff.  
+
+## Recommendation  
+**Sales & Growth:** 
+ * Focus on high-value customers to sustain revenue growth
+ - Expand into underperforming regions
+**Product Strategy:**
+Reassess discontinued products with strong demand
+Optimize product mix toward high-performing categories
+**Pricing & Discounts:**  
+Reduce excessive discounting
+Implement data-driven discount strategies
+**Operations:**  
+Investigate rising freight costs
+Optimize shipper selection based on cost vs speed trade-off
+Improve fast delivery options
+**Workforce Optimization:**  
+Balance workload across employees
+Identify best practices from top performers
