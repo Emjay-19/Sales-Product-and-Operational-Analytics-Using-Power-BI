@@ -20,13 +20,15 @@ The analysis is focused on answering the following key questions:
 
 By addressing these questions, the dashboard provides a comprehensive view of business performance, helping stakeholders identify growth opportunities, optimize operations, and improve strategic decision-making.
 
-## Tools and Methodology  
-- Tools Used  
+## Tools and Methodology   
+
+- **Tools Used:**  
 i.	Power BI for data visualization and dashboard design  
 ii.	Power Query for data cleaning and transformation  
 iii.	DAX (Data Analysis Expressions) for calculated measures  
 
-- Methodology  
+- **Methodology:**
+- 
 To prepare the data for analysis, a series of transformation and modeling steps were carried out:  
 •	Performed data cleaning in Power Query (handling missing values, correcting data types, and removing inconsistencies)  
 •	Created a centralized Fact Table by combining transactional data from Orders and Order Details  
