@@ -82,17 +82,21 @@ vii. Designed DAX measures for key metrics such as:
 ## Recommendation  
 **Sales & Growth:**  
 - Focus on high-value customers to sustain revenue growth
-- Expand into underperforming regions  
-**Product Strategy:**
+- Expand into underperforming regions
+  
+**Product Strategy:**  
 - Reassess discontinued products with strong demand  
-- Optimize product mix toward high-performing categories  
+- Optimize product mix toward high-performing categories
+  
 **Pricing & Discounts:**  
-Reduce excessive discounting  
-Implement data-driven discount strategies  
+- Reduce excessive discounting  
+- Implement data-driven discount strategies  
+
 **Operations:**  
-Investigate rising freight costs  
-Optimize shipper selection based on cost vs speed trade-off  
-Improve fast delivery options  
+- Investigate rising freight costs  
+- Optimize shipper selection based on cost vs speed trade-off  
+- Improve fast delivery options
+  
 **Workforce Optimization:**   
-Balance workload across employees  
-Identify best practices from top performers  
+- Balance workload across employees  
+- Identify best practices from top performers  
