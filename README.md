@@ -102,12 +102,8 @@ vii. Designed DAX measures for key metrics such as:
 - Identify best practices from top performers  
 
 ## Link to Report  
-Power BI
-[r=eyJrIjoiZDU5NDg2NTctMGEyNS00ZGRlLTkzNmQtOGU2MjIwYTUxMjZhIiwidCI6IjU2YjNjMjUzLTdlM2MtNDFjNC04NjEwLTc4YjIyYWNjN2E2MCJ9&pageName=22e1f0c1a858a0a300c8](https://www.powerbi.com)
 
-https://app.powerbi.com/view?
-
-[Link Text](https://www.example.com)
+[Power BI ]([https://www.example.com](https://app.powerbi.com/view?r=eyJrIjoiZDU5NDg2NTctMGEyNS00ZGRlLTkzNmQtOGU2MjIwYTUxMjZhIiwidCI6IjU2YjNjMjUzLTdlM2MtNDFjNC04NjEwLTc4YjIyYWNjN2E2MCJ9&pageName=22e1f0c1a858a0a300c8))
 
 
 ## Conclusion
