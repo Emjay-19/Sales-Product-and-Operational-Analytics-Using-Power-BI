@@ -2,28 +2,26 @@
 
 ## Project Overview  
 Northwind Traders, a global retail company, aims to improve decision-making across sales, product performance, and operational efficiency. This project analyzes historical transactional data to uncover trends in revenue, customer behavior, product performance, and shipping operations, while identifying inefficiencies and growth opportunities.  
-The solution delivers an interactive Business Intelligence dashboard that supports data-driven decision-making by highlighting key performance drivers, operational bottlenecks, and strategic improvement areas across the business.
-The solution is divided into three key analytical areas:  
-i.	Overview Dashboard – tracks revenue trends, customer contribution, and order behavior  
-ii.	Product Dashboard – analyzes product performance, discount impact, and category contribution  
-iii.	Operational Dashboard – evaluates shipping efficiency, freight costs, and employee productivity  
-The goal is to enable data-driven decision-making by uncovering trends, inefficiencies, and growth opportunities.
 
 ## Problem Statement
 Northwind Traders need clear visibility into their performance across sales, products, and operations, but raw transactional data alone does not provide actionable insights. This project aims to address critical business questions by transforming data into an interactive dashboard that supports decision-making.
 
 ## Business Questions Answered
 The analysis is focused on answering the following key questions:  
-•	Sales Performance: How is revenue evolving over time, and what patterns exist in order volume? Are there noticeable seasonal trends affecting sales?  
-•	Product Intelligence: Which product categories and individual products generate the highest revenue? How does the discontinuation of products impact overall sales performance and potential revenue opportunities?  
-•	Customer & Regional Insights: Which customers contribute the most to revenue, and which countries or regions represent the largest market share?  
-•	Operational Efficiency: How efficient are shipping operations in terms of delivery time and cost? Do higher freight costs result in faster deliveries?  
-•	Workforce & Shipper Performance: Which employees handle the most orders and generate the highest revenue? Which shipping companies provide the best balance between cost and performance?  
+•	How is revenue evolving over time, and what patterns exist in order volume?  
+Are there noticeable seasonal trends affecting sales?  
+•	Which product categories and individual products generate the highest revenue?  
+How does the discontinuation of products impact overall sales performance and potential revenue opportunities?  
+•	Which customers contribute the most to revenue, and which countries or regions represent the largest market share?  
+•	How efficient are shipping operations in terms of delivery time and cost?  
+Do higher freight costs result in faster deliveries?  
+•	Which employees handle the most orders and generate the highest revenue?  
+Which shipping companies provide the best balance between cost and performance?  
 
 By addressing these questions, the dashboard provides a comprehensive view of business performance, helping stakeholders identify growth opportunities, optimize operations, and improve strategic decision-making.
 
 ## Tools and Methodology  
-   Tools Used
+   Tools Used  
 i.	Power BI for data visualization and dashboard design
 ii.	Power Query for data cleaning and transformation
 iii.	DAX (Data Analysis Expressions) for calculated measures
