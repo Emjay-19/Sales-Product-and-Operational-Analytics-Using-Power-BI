@@ -38,13 +38,13 @@ To prepare the data for analysis, a series of transformation and modeling steps 
       - Delivery Delay  
       - Shipping Days Bucket  
 •	Designed DAX measures for key metrics such as:  
-- Total Revenue  
-- Total Orders  
-- Average Order Value  
-- Profit Margin  
-- Discount Loss  
-- Freight Cost  
-- Year-over-Year Growth  
+      - Total Revenue  
+      - Total Orders  
+      - Average Order Value  
+      - Profit Margin  
+      - Discount Loss  
+      - Freight Cost  
+      - Year-over-Year Growth  
 
 ## Dashboard
 
@@ -54,3 +54,27 @@ To prepare the data for analysis, a series of transformation and modeling steps 
 
 <img width="505" height="281" alt="Screenshot 2026-04-29 203234" src="https://github.com/user-attachments/assets/862c84f2-5382-4366-8c09-50d5eb31497e" />
 
+## Key Insights  
+## 📊 Key Insights
+
+- **Revenue vs Order Volume:** Revenue increased significantly (+179.3% YoY) despite a decline in total orders (-33.8%). This indicates growth is driven by higher-value transactions rather than increased customer activity, creating dependency on fewer large orders.  
+
+- **Seasonality Trends:** Sales show strong seasonal variation, with a peak in April ($176.8K) and a sharp decline in June ($36.4K). This reflects inconsistent monthly demand and potential cash flow volatility.  
+
+- **Customer Concentration:** A small group of customers contributes a disproportionately large share of revenue, with QUICK-Stop alone generating over $110K. This highlights a high customer concentration risk.  
+
+- **Regional Performance:** The USA and Germany dominate revenue contribution, significantly outperforming other countries such as Austria, Brazil, and France, indicating uneven geographic market penetration.  
+
+- **Product Performance:** High-performing products such as Côte de Blaye ($141K+) and Thüringer Rostbratwurst ($80K+) drive a large portion of revenue, while overall quantity sold declined (-36.3% YoY), showing reduced volume but higher value per transaction. 
+
+- **Discount Impact:** Discount losses increased sharply (+164.6% to $88.67K) without proportional revenue growth, indicating that discount strategies are not effectively driving additional sales and may be eroding profitability.  
+
+- **Category Trends:** Beverages and Dairy Products are the strongest performing categories by volume (over 49K units combined), while Meat & Poultry shows significant disruption due to discontinued products.  
+
+- **Operational Efficiency:** Freight costs increased significantly (+183.7%), while shipping time improved only slightly (-4.8%). This suggests rising logistics costs are not translating into meaningful efficiency gains.  
+
+- **Shipping Performance:** Most deliveries occur within 3–14 days, with very few same-day deliveries, indicating limited fast-shipping capability.  
+
+- **Shipper Performance:** United Package generates the highest revenue ($534K) but also incurs the highest freight cost ($92K), showing a trade-off between revenue contribution and cost efficiency.  
+
+- **Employee Performance:** Employee output varies significantly, with the top performer generating $233K in revenue, highlighting imbalance in workload distribution and productivity across staff.  
